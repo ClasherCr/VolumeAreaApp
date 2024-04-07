@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VolumeAreaApp</string>
+    <string name="cube_volume">Cube Volume</string>
+    <string name="result">Result</string>
+    <string name="please_enter_the_side_size">Please Enter The Side Size</string>
+    <string name="calculate_volume">Calculate Volume</string>
+    <string name="prism_volume">Prism Volume</string>
+    <string name="please_enter_the_length">Please Enter The Length</string>
+    <string name="please_enter_the_width">Please Enter The Width</string>
+    <string name="please_enter_the_height">Please Enter the Height</string>
+</resources>
